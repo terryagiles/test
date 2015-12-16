@@ -9,5 +9,6 @@
 {"type":"Feature", "geometry": {"type": "Point", "coordinates": [-158.9, 59.2444444]}, "properties":{"FEATURE_ID": "1397829", "FEATURE_NAME": "Lake Nunavaugaluk", "COUNTY_NAME": "Dillingham (CA)"}},
 {"type":"Feature","geometry": {"type": "Point", "coordinates": [-163.6597222, 59.1402778]}, "properties":{"FEATURE_ID": "1397835", "FEATURE_NAME": "Bering Sea", "COUNTY_NAME": "Aleutians West (CA)"}},
 {"type":"Feature", "geometry": {"type": "Point", "coordinates": [-147.2386111, 67.1016667]}, "properties":{"FEATURE_ID": "1397853", "FEATURE_NAME": "East Fork Chandalar River", "COUNTY_NAME": "Yukon-Koyukuk (CA)"}},
-{"type":"Feature", "geometry": {"type": "Point", "coordinates": [-176.6402778, 51.7844444]}, "properties":{"FEATURE_ID": "1397909", "FEATURE_NAME": "Adak Island", "COUNTY_NAME": "Aleutians West (CA)"}}
+{"type":"Feature", "geometry": {"type": "Point", "coordinates": [-176.6402778, 51.7844444]}, "properties":{"FEATURE_ID": "1397909", "FEATURE_NAME": "Adak Island", "COUNTY_NAME": "Aleutians West (CA)"}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates": [-104.5, 40.54444]}, "properties":{"FEATURE_ID": "123456", "FEATURE_NAME": "Fort Collins", "COUNTY_NAME": "Larimer"}}
 ]}
