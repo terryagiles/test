@@ -1,5 +1,5 @@
 { "type": "FeatureCollection",
-    "features": [
+"features": [
 {"type":"Feature", "geometry": {"type": "Point", "coordinates": [-146.6416667, 60.2347222]}, "properties":{"FEATURE_ID": "1397640", "FEATURE_NAME": "Cape Hinchinbrook", "COUNTY_NAME": "Valdez-Cordova (CA)"}},
 {"type":"Feature", "geometry": {"type": "Point", "coordinates": [-148.0144444, 64.8472222]}, "properties":{"FEATURE_ID": "1397658", "FEATURE_NAME": "Ester", "COUNTY_NAME": "Fairbanks North Star"}},
 {"type":"Feature",  "geometry": {"type": "Point", "coordinates": [-158.2083333, 63.5408333]}, "properties":{"FEATURE_ID": "1397798", "FEATURE_NAME": "Magitchlie Creek", "COUNTY_NAME": "Yukon-Koyukuk (CA)"}},
@@ -11,4 +11,6 @@
 {"type":"Feature", "geometry": {"type": "Point", "coordinates": [-147.2386111, 67.1016667]}, "properties":{"FEATURE_ID": "1397853", "FEATURE_NAME": "East Fork Chandalar River", "COUNTY_NAME": "Yukon-Koyukuk (CA)"}},
 {"type":"Feature", "geometry": {"type": "Point", "coordinates": [-176.6402778, 51.7844444]}, "properties":{"FEATURE_ID": "1397909", "FEATURE_NAME": "Adak Island", "COUNTY_NAME": "Aleutians West (CA)"}},
 {"type":"Feature", "geometry": {"type": "Point", "coordinates": [-105.05, 40.54444]}, "properties":{"FEATURE_ID": "123456", "FEATURE_NAME": "Fort Collins", "COUNTY_NAME": "Larimer"}}
-]}
+],
+"properties" : {"marker-symbol": "zoo", "marker-size":"medium"}
+}
